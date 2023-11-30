@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetrGameAPI", "TetrGameAPI\TetrGameAPI.csproj", "{0807F998-7673-4898-8119-92CFB0E209BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp", "SampleApp\SampleApp.csproj", "{5CC35C0B-CB98-48DB-8AE2-FA9CFD118576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0807F998-7673-4898-8119-92CFB0E209BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0807F998-7673-4898-8119-92CFB0E209BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0807F998-7673-4898-8119-92CFB0E209BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0807F998-7673-4898-8119-92CFB0E209BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC35C0B-CB98-48DB-8AE2-FA9CFD118576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC35C0B-CB98-48DB-8AE2-FA9CFD118576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC35C0B-CB98-48DB-8AE2-FA9CFD118576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC35C0B-CB98-48DB-8AE2-FA9CFD118576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
